@@ -5216,6 +5216,7 @@ span.is-active:after {
 
 .winner-tab-nav {
     border-bottom: 1px solid #2d246d;
+    margin-top: -66px;
 }
 
 @media (max-width: 575px) {
